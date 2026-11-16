@@ -1,0 +1,5 @@
+source_system,records,missing_email_pct,invalid_postcode_pct,duplicate_pct,pii_format_failure_pct
+BILLING,196,5.61,8.16,3.57,5.61
+CRM,156,3.21,9.62,3.85,7.69
+ERP,169,8.88,10.65,6.51,7.1
+SUPPORT,179,3.91,13.41,2.23,8.94
