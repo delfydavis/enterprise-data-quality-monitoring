@@ -1,0 +1,12 @@
+column,data_type,description
+record_id,object,Synthetic field: record id
+source_system,object,Synthetic field: source system
+customer_ref,object,Synthetic field: customer ref
+email_present,int64,Synthetic field: email present
+postcode_valid,int64,Synthetic field: postcode valid
+date_valid,int64,Synthetic field: date valid
+duplicate_flag,int64,Synthetic field: duplicate flag
+pii_format_valid,int64,Synthetic field: pii format valid
+ingestion_date,object,Synthetic field: ingestion date
+failed_checks,int64,Synthetic field: failed checks
+quality_status,object,Synthetic field: quality status
